@@ -1,1 +1,1 @@
-my first readme
+jerlic dero
